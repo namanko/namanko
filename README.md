@@ -1,5 +1,8 @@
 ### Hi there 👋
 # I am Naman, a High school student from India and I am enthusiastic about Machine Learning & Artificial Intelligence
+
+![Namanko's GitHub stats](https://github-readme-stats.vercel.app/api?username=namanko&show_icons=true)
+
 <!--
 **namanko/namanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
