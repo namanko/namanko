@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+# I am Naman, a High school student from India and I am enthusiastic about Machine Learning & Artificial Intelligence
 <!--
 **namanko/namanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
